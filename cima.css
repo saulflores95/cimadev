@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url('https://wallpaperscraft.com/image/graphics_low_poly_digital_art_minimalism_102027_1920x1080.jpg');
+  font-family: fantasy;
+}
+
+#main {
+  background-color: white;
+  width: 450px;
+  padding: 80px;
+}
